@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is SaitamaDuBled and I'm a student in cybersec</h2>
+<h1 align="center">Hi 👋! My name is SaitamaDuBled  and I'm a cybersec student</h1>
 
 ###
 
@@ -27,8 +27,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="35" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
@@ -45,5 +43,13 @@
 ###
 
 <img src="https://raw.githubusercontent.com/SaitamaDuBled/SaitamaDuBled/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SaitamaDuBled/count.svg?"  />
+</div>
 
 ###
